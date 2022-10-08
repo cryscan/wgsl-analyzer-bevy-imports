@@ -21,5 +21,6 @@
         "bevy_hikari::mesh_material_bindings": "https://raw.githubusercontent.com/cryscan/bevy-hikari/main/src/shaders/mesh_material_bindings.wgsl",
         "bevy_hikari::deferred_bindings": "https://raw.githubusercontent.com/cryscan/bevy-hikari/main/src/shaders/deferred_bindings.wgsl",
         "bevy_hikari::mesh_view_bindings": "https://raw.githubusercontent.com/cryscan/bevy-hikari/main/src/shaders/mesh_view_bindings.wgsl",
+    }
 }
 ```
