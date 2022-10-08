@@ -17,6 +17,9 @@
         "bevy_pbr::shadows": "https://raw.githubusercontent.com/bevyengine/bevy/main/crates/bevy_pbr/src/render/shadows.wgsl",
         "bevy_pbr::skinning": "https://raw.githubusercontent.com/bevyengine/bevy/main/crates/bevy_pbr/src/render/skinning.wgsl",
         "bevy_pbr::utils": "https://raw.githubusercontent.com/bevyengine/bevy/main/crates/bevy_pbr/src/render/utils.wgsl",
-    }
+        "bevy_hikari::mesh_material_types": "https://raw.githubusercontent.com/cryscan/bevy-hikari/main/src/shaders/mesh_material_types.wgsl",
+        "bevy_hikari::mesh_material_bindings": "https://raw.githubusercontent.com/cryscan/bevy-hikari/main/src/shaders/mesh_material_bindings.wgsl",
+        "bevy_hikari::deferred_bindings": "https://raw.githubusercontent.com/cryscan/bevy-hikari/main/src/shaders/deferred_bindings.wgsl",
+        "bevy_hikari::mesh_view_bindings": "https://raw.githubusercontent.com/cryscan/bevy-hikari/main/src/shaders/mesh_view_bindings.wgsl",
 }
 ```
